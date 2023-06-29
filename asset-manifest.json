@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Arnohollowknight/Shop-project/static/css/main.55260d15.css",
+    "main.js": "/Arnohollowknight/Shop-project/static/js/main.bd8dea21.js",
+    "index.html": "/Arnohollowknight/Shop-project/index.html",
+    "main.55260d15.css.map": "/Arnohollowknight/Shop-project/static/css/main.55260d15.css.map",
+    "main.bd8dea21.js.map": "/Arnohollowknight/Shop-project/static/js/main.bd8dea21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55260d15.css",
+    "static/js/main.bd8dea21.js"
+  ]
+}
