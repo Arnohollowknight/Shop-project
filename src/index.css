@@ -9,6 +9,10 @@ body {
 
 nav {
     padding: 0 1rem;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 10px;
+    width: auto;
 }
 
 .content {
@@ -93,6 +97,13 @@ nav {
 #toast-container {
     top: 3rem !important;
     animation: fade-in 250ms ease-in-out;
+}
+
+
+footer {
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 10px;
 }
 
 @keyframes fade-in {
